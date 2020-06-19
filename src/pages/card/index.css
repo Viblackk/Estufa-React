@@ -1,0 +1,14 @@
+.containerCard {
+	background-color: white;
+	box-shadow: 0 5px 30px rgba(0, 0, 0, 0.1);
+	margin-top: 50px;
+	height: 10%;
+	margin-left: 50px;
+	padding: 50px;
+	font-size: 36px;
+	border-radius: 4px;
+}
+
+.containerCard + .containerCard {
+	
+}
